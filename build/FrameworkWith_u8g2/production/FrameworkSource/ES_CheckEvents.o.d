@@ -1,0 +1,20 @@
+build/FrameworkWith_u8g2/production/FrameworkSource/ES_CheckEvents.o:  \
+ FrameworkSource/ES_CheckEvents.c  \
+FrameworkHeaders/ES_Configure.h  \
+ FrameworkHeaders/ES_Events.h  \
+FrameworkHeaders/ES_Configure.h  \
+ FrameworkHeaders/ES_General.h  \
+FrameworkHeaders/ES_CheckEvents.h  \
+ FrameworkHeaders/ES_Types.h  \
+ProjectHeaders/EventCheckWrapper.h  \
+ ProjectHeaders/EventCheckers.h  \
+ProjectHeaders/OPAMP.h  \
+ FrameworkHeaders/ES_Types.h  \
+ProjectHeaders/PackDataHandler.h  \
+ ProjectHeaders/TVS.h  \
+ProjectHeaders/ZENER.h  \
+FrameworkHeaders/ES_Port.h  \
+ FrameworkHeaders/bitdefs.h  \
+FrameworkHeaders/Bin_Const.h  \
+ FrameworkHeaders/terminal.h  \
+FrameworkHeaders/ES_Port.h 

@@ -1,0 +1,31 @@
+build/FrameworkWith_u8g2/production/ProjectSource/OLEDService.o:  \
+ ProjectSource/OLEDService.c  \
+FrameworkHeaders/ES_Configure.h  \
+ FrameworkHeaders/ES_Framework.h  \
+FrameworkHeaders/ES_Types.h  \
+ FrameworkHeaders/ES_Port.h  \
+FrameworkHeaders/bitdefs.h  \
+ FrameworkHeaders/Bin_Const.h  \
+FrameworkHeaders/terminal.h  \
+ FrameworkHeaders/ES_Events.h  \
+FrameworkHeaders/ES_Configure.h  \
+ FrameworkHeaders/ES_PostList.h  \
+FrameworkHeaders/ES_General.h  \
+ FrameworkHeaders/ES_Timers.h  \
+FrameworkHeaders/ES_DeferRecall.h  \
+ FrameworkHeaders/ES_Queue.h  \
+FrameworkHeaders/ES_General.h  \
+ ProjectHeaders/OLEDService.h  \
+FrameworkHeaders/ES_Types.h  \
+ ProjectHeaders/ZENER.h  \
+FrameworkHeaders/ES_Events.h  \
+ FrameworkHeaders/ES_Port.h  \
+ProjectHeaders/dbprintf.h  \
+ ProjectSource/../u8g2Headers/u8g2TestHarness_main.h  \
+ ProjectSource/../u8g2Headers/common.h  \
+ ProjectSource/../u8g2Headers/../u8g2Headers/u8g2TestHarness_main.h  \
+ ProjectSource/../u8g2Headers/spi_master.h  \
+ ProjectSource/../u8g2Headers/../u8g2Headers/common.h  \
+ ProjectSource/../u8g2Headers/u8g2.h  \
+ProjectSource/../u8g2Headers/u8x8.h  \
+ ProjectSource/../u8g2Headers/u8x8.h 
